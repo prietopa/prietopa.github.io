@@ -1,0 +1,17 @@
+# Site settings
+title: José Manuel Prieto Palacios
+email: josemanuel@prietopalacios.net
+description: > # this means to ignore newlines until "baseurl:"
+  Software engineer, software craftsmanship. Especialist in Java.
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://josemanuel.prietopalacios.net" # the base hostname & protocol for your site
+url: http://localhost:4000
+twitter_username: prietibiris
+github_username:  prietopa
+paginate: 5
+
+# Build settings
+markdown: kramdown
+
+timezone: Europe/Madrid
+encoding: utf-8 # make sure that no BOM header characters exist in your files
