@@ -7,7 +7,7 @@ permalink: /about/
 --------------
 
 |---|---|---|---|---|
-| <a href="http://es.linkedin.com/in/josemanuelprieto/">![LinkedIn]({{ site.url }}/assets/linkedin.png)</a> <a href="http://es.linkedin.com/in/josemanuelprieto/">LinkedIn</a>  |   | <a href="https://github.com/prietopa">![LinkedIn]({{ site.url }}/assets/github.png)</a>  <a href="https://github.com/prietopa">GitHub</a> |   |  <a href="http://es.linkedin.com/in/josemanuelprieto/">![Curriculum]({{ site.url }}/assets/pdf.gif)</a>  [Curriculum]({{ site.url }}/assets/doc/cv_jmp.pdf) |
+| ![LinkedIn]({{ site.url }}/assets/linkedin.png) <a href="http://es.linkedin.com/in/josemanuelprieto/">LinkedIn</a>  |   | ![GitHub]({{ site.url }}/assets/github.png)  <a href="https://github.com/prietopa">GitHub</a> |   | ![Curriculum]({{ site.url }}/assets/pdf.gif)  [Curriculum]({{ site.url }}/assets/doc/cv_jmp.pdf) |
 
 --------------
 
